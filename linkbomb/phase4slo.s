@@ -1,0 +1,2 @@
+lea -0x13(%rbp),%rdi
+call 0x0
